@@ -1,0 +1,48 @@
+.act{
+    border: 5px black solid;
+    
+    border-radius: 15px;
+    width:960px;
+    margin:auto;
+    
+}
+.act input[type="text"]{
+    width:300px;   
+} 
+.fl{
+    display: flex;
+    justify-content: space-around;
+}
+.f{
+    display: flex;
+    justify-content: space-around;
+}
+.d{
+    display: flex;
+    justify-content: space-around;
+}
+.h{
+    display: flex;
+    justify-content: space-around;
+}
+.s{
+    display: flex;
+    justify-content: space-around;
+}
+.aa{
+    margin-left: 9%;
+}
+.aa input{
+    width: 780px!important;
+}
+ .bb{
+    margin-left: 9%;
+    
+}
+.bb input{
+    width: 780px!important
+}
+.cr{
+    background-color: green;
+    margin-left: 63%;
+}

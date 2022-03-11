@@ -1,0 +1,54 @@
+.reg{
+    border: 5px black solid;
+    padding: 10px;
+    border-radius: 15px;
+    width:500px;
+    margin:auto;
+    background-color: black;
+}
+.reg input[type="text"]{
+    width:150px;   
+}
+.ab{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+}
+.cc{
+    justify-content: space-around;
+    margin-left: 9%;
+    padding: 10px;
+}
+.cc input{
+width: 88%!important;
+}
+.dd{
+    padding: 10px;
+    margin-left: 9%;
+}
+.dd input{
+    width: 88%!important;
+}
+.ee{
+    padding: 10px;
+    margin-left: 9%;
+}
+.ee input{
+    width: 88%!important;
+}
+.ff{
+    padding: 10px;
+    margin-left: 9%;
+}
+.ff input{
+    width: 88%!important;
+}
+.cr{
+    border-radius: 5px;
+    margin-left: 69%;
+    background-color:green;
+    color: white;
+}
+.fr{
+    color: white;
+}
