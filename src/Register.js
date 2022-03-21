@@ -8,7 +8,7 @@ class Register extends Component{
             <div className='ab'>
                 <div><input type="text" placeholder="First Name"></input></div>
                 <div><input type="text" placeholder="Last Name"></input></div>
-                </div>
+                </div> 
                 <div className='cc'>
                     <input type="text" placeholder="Name"></input></div>
                 <div className='dd'>
