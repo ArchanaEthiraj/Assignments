@@ -1,0 +1,28 @@
+.border{
+    margin-left: 300px;
+    margin-bottom: 5%;
+    box-shadow: 0 4px 8px;
+    width:60%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.cat{
+    background-color: white ;
+    margin-top:90px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 1%;
+    padding-bottom: 7px;
+    padding: 2%;
+}
+.button{
+    float:right; 
+    background-color:#cae4dd;
+    text-decoration: none;
+    color: maroon;
+    border: none;
+    
+}
+.archu{
+    position: absolute;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
