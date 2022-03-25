@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import Vote from './Vote';
 import Form from './Form';
 import Radio from './Validation';
+import Counts from './Counts';
 export class App extends Component {
   render() {
     return (
@@ -13,6 +14,7 @@ export class App extends Component {
         <Vote title="Python"/>
         <Form/>
         <Radio/>
+        <Counts/>
       </div>
     )
   }
