@@ -1,0 +1,13 @@
+.card{
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+}
+.m{
+    margin-left: 350px;
+    color:blue
+}
+.align{
+    text-align: center;
+    margin: 8%;
+}
